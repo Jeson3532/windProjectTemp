@@ -29,7 +29,7 @@
 ## 2. Подготовка зависимостей
 
 Требуется создать conda-окружение и установить требуемые пакеты.
-1. conda create -n <название окружения> python=3.13 -y
+1. conda create -n <название окружения> python=3.10 -y
 2. conda activate <название окружения>
 3. pip install -r <путь_к_requirements.txt>
 
